@@ -1,0 +1,507 @@
+{
+    "meridianos": [
+        {
+            "id": 1,
+            "organo": "Pulmón",
+            "organoChino": "肺 (Fèi)",
+            "elemento": "Metal",
+            "horaInicio": "03:00",
+            "horaFin": "05:00",
+            "emocion": "Tristeza, melancolía",
+            "emocionPositiva": "Coraje, rectitud",
+            "color": "Blanco",
+            "sabor": "Picante",
+            "estacion": "Otoño",
+            "funcion": "Gobierna la respiración y la energía vital. Controla la piel y el vello corporal.",
+            "sintomas": [
+                "Despertarse entre las 3 y 5 de la mañana frecuentemente",
+                "Problemas respiratorios",
+                "Piel seca o problemas cutáneos",
+                "Tristeza inexplicable"
+            ],
+            "consejos": [
+                "Practica respiraciones profundas y conscientes",
+                "Mantén las ventanas abiertas para aire fresco",
+                "Es el mejor momento para meditar",
+                "Si te despiertas, haz ejercicios de respiración suave"
+            ],
+            "alimentos": [
+                "Peras",
+                "Rábano blanco",
+                "Almendras",
+                "Jengibre",
+                "Ajo",
+                "Cebolla"
+            ],
+            "ejercicioQiGong": "Levanta los brazos por encima de la cabeza mientras inhalas profundamente. Al exhalar, baja los brazos lentamente por los costados, imaginando que liberas toda la tristeza y el estrés acumulado.",
+            "meditacion": "Visualiza una luz blanca pura entrando por tu nariz con cada inhalación, llenando tus pulmones de energía vital renovadora."
+        },
+        {
+            "id": 2,
+            "organo": "Intestino Grueso",
+            "organoChino": "大腸 (Dàcháng)",
+            "elemento": "Metal",
+            "horaInicio": "05:00",
+            "horaFin": "07:00",
+            "emocion": "Apego, dificultad para soltar",
+            "emocionPositiva": "Capacidad de liberación",
+            "color": "Blanco",
+            "sabor": "Picante",
+            "estacion": "Otoño",
+            "funcion": "Elimina los desechos del cuerpo. Representa la capacidad de soltar lo que ya no sirve.",
+            "sintomas": [
+                "Estreñimiento o diarrea",
+                "Dificultad para dejar ir el pasado",
+                "Problemas de piel",
+                "Congestión nasal"
+            ],
+            "consejos": [
+                "Bebe un vaso de agua tibia al despertar",
+                "Es el momento ideal para ir al baño",
+                "Practica el desapego emocional",
+                "Estira suavemente el cuerpo"
+            ],
+            "alimentos": [
+                "Agua tibia con limón",
+                "Fibra natural",
+                "Avena",
+                "Ciruelas",
+                "Verduras de hoja verde"
+            ],
+            "ejercicioQiGong": "De pie, gira suavemente la cintura de lado a lado, dejando que los brazos se balanceen libremente. Esto masajea los intestinos y promueve la eliminación.",
+            "meditacion": "Con cada exhalación, visualiza que liberas todo lo que ya no necesitas: pensamientos negativos, emociones estancadas, toxinas del cuerpo."
+        },
+        {
+            "id": 3,
+            "organo": "Estómago",
+            "organoChino": "胃 (Wèi)",
+            "elemento": "Tierra",
+            "horaInicio": "07:00",
+            "horaFin": "09:00",
+            "emocion": "Preocupación, ansiedad",
+            "emocionPositiva": "Empatía, nutrición",
+            "color": "Amarillo",
+            "sabor": "Dulce",
+            "estacion": "Final del verano",
+            "funcion": "Recibe y procesa los alimentos. La digestión está en su punto máximo.",
+            "sintomas": [
+                "Problemas digestivos",
+                "Falta de apetito por las mañanas",
+                "Acidez estomacal",
+                "Preocupación excesiva"
+            ],
+            "consejos": [
+                "Este es el momento más importante para desayunar",
+                "Come un desayuno nutritivo y abundante",
+                "Mastica bien los alimentos",
+                "Evita comer con prisas o estrés"
+            ],
+            "alimentos": [
+                "Avena caliente",
+                "Frutas de temporada",
+                "Huevos",
+                "Congee (arroz cocido)",
+                "Mijo",
+                "Calabaza"
+            ],
+            "ejercicioQiGong": "Masajea tu abdomen en círculos, 36 veces en sentido horario y 36 en sentido antihorario. Esto activa la energía del estómago.",
+            "meditacion": "Coloca las manos sobre tu estómago y siente el calor. Visualiza una luz dorada que nutre y fortalece tu sistema digestivo."
+        },
+        {
+            "id": 4,
+            "organo": "Bazo y Páncreas",
+            "organoChino": "脾 (Pí)",
+            "elemento": "Tierra",
+            "horaInicio": "09:00",
+            "horaFin": "11:00",
+            "emocion": "Preocupación, pensamiento obsesivo",
+            "emocionPositiva": "Reflexión, concentración",
+            "color": "Amarillo",
+            "sabor": "Dulce",
+            "estacion": "Final del verano",
+            "funcion": "Transforma los alimentos en energía. Gobierna los músculos y el pensamiento.",
+            "sintomas": [
+                "Fatiga después de comer",
+                "Retención de líquidos",
+                "Pensamiento circular",
+                "Debilidad muscular"
+            ],
+            "consejos": [
+                "Es el mejor momento para trabajo mental intenso",
+                "La concentración está en su punto máximo",
+                "Evita alimentos fríos y crudos en exceso",
+                "Realiza tareas que requieran análisis"
+            ],
+            "alimentos": [
+                "Calabaza",
+                "Boniato",
+                "Zanahoria",
+                "Mijo",
+                "Dátiles",
+                "Legumbres bien cocidas"
+            ],
+            "ejercicioQiGong": "Siéntate erguido y presiona suavemente el punto entre el pulgar y el índice de cada mano durante 1 minuto. Esto fortalece el bazo.",
+            "meditacion": "Visualiza raíces que salen de tus pies y te conectan con la tierra, absorbiendo su energía nutritiva y estabilizadora."
+        },
+        {
+            "id": 5,
+            "organo": "Corazón",
+            "organoChino": "心 (Xīn)",
+            "elemento": "Fuego",
+            "horaInicio": "11:00",
+            "horaFin": "13:00",
+            "emocion": "Alegría excesiva, manía",
+            "emocionPositiva": "Amor, alegría equilibrada",
+            "color": "Rojo",
+            "sabor": "Amargo",
+            "estacion": "Verano",
+            "funcion": "Gobierna la sangre y los vasos sanguíneos. Alberga el Shen (espíritu/mente).",
+            "sintomas": [
+                "Palpitaciones",
+                "Insomnio",
+                "Ansiedad",
+                "Falta de alegría",
+                "Problemas de memoria"
+            ],
+            "consejos": [
+                "Conecta con personas queridas",
+                "Cultiva la alegría y la gratitud",
+                "Evita el estrés intenso",
+                "Es buen momento para socializar"
+            ],
+            "alimentos": [
+                "Sandía",
+                "Tomate",
+                "Pimientos rojos",
+                "Té verde",
+                "Alcachofa",
+                "Semillas de loto"
+            ],
+            "ejercicioQiGong": "Coloca las manos sobre el corazón y sonríe internamente. Siente cómo el amor y la alegría llenan tu pecho con cada respiración.",
+            "meditacion": "Visualiza tu corazón como un sol radiante en tu pecho, irradiando amor y calidez a todo tu cuerpo y a las personas a tu alrededor."
+        },
+        {
+            "id": 6,
+            "organo": "Intestino Delgado",
+            "organoChino": "小腸 (Xiǎocháng)",
+            "elemento": "Fuego",
+            "horaInicio": "13:00",
+            "horaFin": "15:00",
+            "emocion": "Confusión mental",
+            "emocionPositiva": "Discernimiento, claridad",
+            "color": "Rojo",
+            "sabor": "Amargo",
+            "estacion": "Verano",
+            "funcion": "Separa lo puro de lo impuro, tanto física como mentalmente.",
+            "sintomas": [
+                "Mala absorción de nutrientes",
+                "Dificultad para tomar decisiones",
+                "Confusión",
+                "Distensión abdominal"
+            ],
+            "consejos": [
+                "Almuerza ligero, ya desayunaste fuerte",
+                "Toma una siesta corta de 20 minutos",
+                "Evita decisiones importantes complejas",
+                "Permite que el cuerpo digiera"
+            ],
+            "alimentos": [
+                "Ensaladas tibias",
+                "Sopas ligeras",
+                "Verduras cocidas",
+                "Evitar comidas pesadas"
+            ],
+            "ejercicioQiGong": "Acuéstate boca arriba y dobla las rodillas hacia el pecho, abrazándolas suavemente. Mécete de lado a lado para masajear los intestinos.",
+            "meditacion": "Visualiza una luz roja brillante en tu abdomen bajo, que te ayuda a discernir con claridad qué es nutritivo y qué debes liberar en tu vida."
+        },
+        {
+            "id": 7,
+            "organo": "Vejiga",
+            "organoChino": "膀胱 (Pángguāng)",
+            "elemento": "Agua",
+            "horaInicio": "15:00",
+            "horaFin": "17:00",
+            "emocion": "Miedo, temor",
+            "emocionPositiva": "Sabiduría, fluidez",
+            "color": "Negro/Azul oscuro",
+            "sabor": "Salado",
+            "estacion": "Invierno",
+            "funcion": "Almacena y excreta la orina. Gobierna la purificación de fluidos.",
+            "sintomas": [
+                "Problemas urinarios",
+                "Dolor de espalda baja",
+                "Miedos irracionales",
+                "Rigidez en la columna"
+            ],
+            "consejos": [
+                "Bebe abundante agua",
+                "Es el mejor momento para estudiar y trabajar",
+                "Máxima productividad mental",
+                "Estira la espalda y las piernas"
+            ],
+            "alimentos": [
+                "Agua pura en abundancia",
+                "Arándanos",
+                "Sandía",
+                "Pepino",
+                "Apio"
+            ],
+            "ejercicioQiGong": "Siéntate con las piernas estiradas y flexiona el torso hacia adelante, intentando tocar los pies. Esto estira el meridiano de la vejiga que corre por toda la espalda.",
+            "meditacion": "Visualiza un río de agua cristalina que fluye por tu columna vertebral, limpiando y purificando todo tu sistema."
+        },
+        {
+            "id": 8,
+            "organo": "Riñón",
+            "organoChino": "腎 (Shèn)",
+            "elemento": "Agua",
+            "horaInicio": "17:00",
+            "horaFin": "19:00",
+            "emocion": "Miedo profundo",
+            "emocionPositiva": "Voluntad, determinación",
+            "color": "Negro/Azul oscuro",
+            "sabor": "Salado",
+            "estacion": "Invierno",
+            "funcion": "Almacena la esencia vital (Jing). Gobierna los huesos, médula y cerebro.",
+            "sintomas": [
+                "Fatiga crónica",
+                "Problemas de huesos o dientes",
+                "Pérdida de cabello",
+                "Miedos profundos",
+                "Problemas de fertilidad"
+            ],
+            "consejos": [
+                "Comienza a reducir la actividad",
+                "Cena temprano y ligero",
+                "Evita el exceso de sal",
+                "Conserva tu energía vital"
+            ],
+            "alimentos": [
+                "Nueces",
+                "Algas marinas",
+                "Judías negras",
+                "Semillas de sésamo negro",
+                "Bayas de goji"
+            ],
+            "ejercicioQiGong": "De pie, golpea suavemente la zona lumbar con los puños cerrados mientras respiras profundamente. Esto estimula la energía de los riñones.",
+            "meditacion": "Visualiza una profunda piscina de agua oscura y tranquila en tu vientre bajo, que representa tu reserva de energía vital y sabiduría ancestral."
+        },
+        {
+            "id": 9,
+            "organo": "Pericardio",
+            "organoChino": "心包 (Xīnbāo)",
+            "elemento": "Fuego",
+            "horaInicio": "19:00",
+            "horaFin": "21:00",
+            "emocion": "Vulnerabilidad",
+            "emocionPositiva": "Protección amorosa, intimidad",
+            "color": "Rojo",
+            "sabor": "Amargo",
+            "estacion": "Verano",
+            "funcion": "Protege el corazón física y emocionalmente. Gobierna las relaciones íntimas.",
+            "sintomas": [
+                "Problemas en relaciones íntimas",
+                "Sensación de vulnerabilidad",
+                "Palpitaciones nocturnas",
+                "Dificultad para conectar emocionalmente"
+            ],
+            "consejos": [
+                "Dedica tiempo a relaciones significativas",
+                "Es el momento para la intimidad",
+                "Realiza actividades placenteras",
+                "Lee, escucha música relajante"
+            ],
+            "alimentos": [
+                "Infusiones relajantes",
+                "Cena ligera ya completada",
+                "Evitar estimulantes",
+                "Chocolate negro con moderación"
+            ],
+            "ejercicioQiGong": "Cruza los brazos sobre el pecho en un abrazo y respira profundamente, sintiendo cómo te proteges y te amas a ti mismo.",
+            "meditacion": "Imagina un capullo de luz rosa alrededor de tu corazón que te protege amorosamente mientras te permite conectar con otros de manera segura."
+        },
+        {
+            "id": 10,
+            "organo": "Triple Calentador",
+            "organoChino": "三焦 (Sānjiāo)",
+            "elemento": "Fuego",
+            "horaInicio": "21:00",
+            "horaFin": "23:00",
+            "emocion": "Confusión, desorden",
+            "emocionPositiva": "Armonía, equilibrio",
+            "color": "Rojo",
+            "sabor": "Amargo",
+            "estacion": "Verano",
+            "funcion": "Regula la temperatura corporal y coordina los tres niveles energéticos del cuerpo.",
+            "sintomas": [
+                "Desequilibrios de temperatura corporal",
+                "Problemas metabólicos",
+                "Dificultad para relajarse",
+                "Sistema inmune debilitado"
+            ],
+            "consejos": [
+                "Prepara tu cuerpo para dormir",
+                "Evita pantallas y estímulos",
+                "Toma un baño tibio",
+                "Practica gratitud por el día"
+            ],
+            "alimentos": [
+                "Infusión de manzanilla",
+                "Leche tibia con canela",
+                "Evitar comer a esta hora"
+            ],
+            "ejercicioQiGong": "Acostado, coloca una mano en el pecho y otra en el abdomen. Respira profundamente sintiendo cómo ambas zonas se elevan y descienden en armonía.",
+            "meditacion": "Visualiza tres soles en tu cuerpo: uno en la cabeza, uno en el pecho y uno en el abdomen. Los tres brillan en perfecta armonía, equilibrando todo tu ser."
+        },
+        {
+            "id": 11,
+            "organo": "Vesícula Biliar",
+            "organoChino": "膽 (Dǎn)",
+            "elemento": "Madera",
+            "horaInicio": "23:00",
+            "horaFin": "01:00",
+            "emocion": "Ira, resentimiento",
+            "emocionPositiva": "Decisión, valentía",
+            "color": "Verde",
+            "sabor": "Ácido",
+            "estacion": "Primavera",
+            "funcion": "Almacena y secreta la bilis. Gobierna la toma de decisiones y el coraje.",
+            "sintomas": [
+                "Dificultad para tomar decisiones",
+                "Despertar entre 23:00 y 01:00",
+                "Resentimiento acumulado",
+                "Problemas de digestión de grasas"
+            ],
+            "consejos": [
+                "Deberías estar dormido",
+                "El cuerpo procesa las grasas consumidas",
+                "La mente procesa las decisiones del día",
+                "Evita comer tarde"
+            ],
+            "alimentos": [
+                "Evitar comer a esta hora",
+                "Durante el día: verduras amargas",
+                "Limón",
+                "Alcachofa"
+            ],
+            "ejercicioQiGong": "Antes de dormir, golpea suavemente los costados del cuerpo desde las axilas hasta las caderas para estimular el meridiano de la vesícula biliar.",
+            "meditacion": "Antes de dormir, revisa las decisiones del día sin juicio, liberando cualquier duda o arrepentimiento. Confía en tu capacidad de decidir."
+        },
+        {
+            "id": 12,
+            "organo": "Hígado",
+            "organoChino": "肝 (Gān)",
+            "elemento": "Madera",
+            "horaInicio": "01:00",
+            "horaFin": "03:00",
+            "emocion": "Ira, frustración",
+            "emocionPositiva": "Amabilidad, generosidad",
+            "color": "Verde",
+            "sabor": "Ácido",
+            "estacion": "Primavera",
+            "funcion": "Almacena la sangre, asegura el flujo suave del Qi. Gobierna los tendones y la visión.",
+            "sintomas": [
+                "Despertar entre 01:00 y 03:00",
+                "Irritabilidad",
+                "Problemas de visión",
+                "Tensión muscular y calambres",
+                "Síndrome premenstrual"
+            ],
+            "consejos": [
+                "Es crucial estar en sueño profundo",
+                "El hígado se regenera y desintoxica",
+                "Evita alcohol y comidas pesadas antes de dormir",
+                "Si despiertas, practica perdón y liberación de ira"
+            ],
+            "alimentos": [
+                "Durante el día: verduras de hoja verde",
+                "Limón",
+                "Remolacha",
+                "Cardo mariano",
+                "Evitar alcohol"
+            ],
+            "ejercicioQiGong": "Al despertar, estira todo el cuerpo como un gato, especialmente los costados. Esto libera la energía del hígado estancada durante la noche.",
+            "meditacion": "Visualiza un bosque verde y frondoso dentro de tu cuerpo. Los árboles absorben toda la ira y frustración, transformándola en oxígeno puro y vitalidad."
+        }
+    ],
+    "elementosCinco": {
+        "Madera": {
+            "organos": [
+                "Hígado",
+                "Vesícula Biliar"
+            ],
+            "emocion": "Ira",
+            "estacion": "Primavera",
+            "color": "Verde",
+            "sabor": "Ácido",
+            "clima": "Viento",
+            "sentido": "Vista",
+            "tejido": "Tendones"
+        },
+        "Fuego": {
+            "organos": [
+                "Corazón",
+                "Intestino Delgado",
+                "Pericardio",
+                "Triple Calentador"
+            ],
+            "emocion": "Alegría",
+            "estacion": "Verano",
+            "color": "Rojo",
+            "sabor": "Amargo",
+            "clima": "Calor",
+            "sentido": "Gusto/Lengua",
+            "tejido": "Vasos sanguíneos"
+        },
+        "Tierra": {
+            "organos": [
+                "Bazo y Páncreas",
+                "Estómago"
+            ],
+            "emocion": "Preocupación",
+            "estacion": "Final del verano",
+            "color": "Amarillo",
+            "sabor": "Dulce",
+            "clima": "Humedad",
+            "sentido": "Gusto/Boca",
+            "tejido": "Músculos"
+        },
+        "Metal": {
+            "organos": [
+                "Pulmón",
+                "Intestino Grueso"
+            ],
+            "emocion": "Tristeza",
+            "estacion": "Otoño",
+            "color": "Blanco",
+            "sabor": "Picante",
+            "clima": "Sequedad",
+            "sentido": "Olfato/Nariz",
+            "tejido": "Piel"
+        },
+        "Agua": {
+            "organos": [
+                "Riñón",
+                "Vejiga"
+            ],
+            "emocion": "Miedo",
+            "estacion": "Invierno",
+            "color": "Negro/Azul oscuro",
+            "sabor": "Salado",
+            "clima": "Frío",
+            "sentido": "Oído",
+            "tejido": "Huesos"
+        }
+    },
+    "frasesMotivacionales": [
+        "El Qi fluye donde la mente va. Dirige tu atención hacia la sanación.",
+        "En el equilibrio del Yin y Yang encontramos la armonía perfecta.",
+        "Tu cuerpo es un templo sagrado. Honra sus ritmos naturales.",
+        "La naturaleza no tiene prisa, pero todo lo logra. Sé como la naturaleza.",
+        "Cada órgano tiene su momento de gloria. Respeta el reloj interno.",
+        "La medicina más poderosa es la prevención y el equilibrio.",
+        "Escucha a tu cuerpo, él habla el lenguaje de la sabiduría ancestral.",
+        "El mejor momento para plantar un árbol fue hace 20 años. El segundo mejor momento es ahora.",
+        "La salud es la mayor posesión. La alegría es el mayor tesoro.",
+        "Cuando el Qi fluye libremente, la enfermedad no puede arraigarse."
+    ]
+}

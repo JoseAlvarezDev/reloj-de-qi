@@ -1,0 +1,414 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "reloj de qi",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "OrganoActualIntent",
+                    "slots": [],
+                    "samples": [
+                        "qué órgano está activo",
+                        "qué órgano está activo ahora",
+                        "cuál es el órgano activo",
+                        "qué meridiano está activo",
+                        "qué energía fluye ahora",
+                        "dime el órgano actual",
+                        "cuál es el meridiano actual",
+                        "qué dice el reloj",
+                        "qué hora es en el reloj chino",
+                        "consulta el reloj",
+                        "estado actual",
+                        "órgano del momento",
+                        "qué pasa ahora en mi cuerpo"
+                    ]
+                },
+                {
+                    "name": "ProximoPeriodoIntent",
+                    "slots": [],
+                    "samples": [
+                        "cuál es el próximo período",
+                        "qué viene después",
+                        "siguiente órgano",
+                        "próximo meridiano",
+                        "qué órgano viene",
+                        "cuándo cambia el órgano",
+                        "próximo ciclo",
+                        "siguiente período",
+                        "qué sigue"
+                    ]
+                },
+                {
+                    "name": "ConsejoActualIntent",
+                    "slots": [],
+                    "samples": [
+                        "dame un consejo",
+                        "qué debería hacer ahora",
+                        "consejo para este momento",
+                        "qué me recomiendas",
+                        "dame una recomendación",
+                        "qué hago ahora",
+                        "consejo del momento",
+                        "guíame",
+                        "qué puedo hacer",
+                        "ayúdame con un consejo"
+                    ]
+                },
+                {
+                    "name": "AlimentosIntent",
+                    "slots": [],
+                    "samples": [
+                        "qué debería comer",
+                        "qué alimentos me benefician",
+                        "recomendación de comida",
+                        "qué comer ahora",
+                        "alimentos recomendados",
+                        "qué puedo comer",
+                        "dieta para ahora",
+                        "nutrición actual",
+                        "comida recomendada"
+                    ]
+                },
+                {
+                    "name": "SintomaHoraIntent",
+                    "slots": [
+                        {
+                            "name": "hora",
+                            "type": "AMAZON.TIME"
+                        }
+                    ],
+                    "samples": [
+                        "me despierto a las {hora}",
+                        "siempre despierto a las {hora}",
+                        "me levanto a las {hora}",
+                        "no puedo dormir a las {hora}",
+                        "tengo insomnio a las {hora}",
+                        "me despierto siempre a las {hora}",
+                        "por qué despierto a las {hora}",
+                        "qué significa despertar a las {hora}"
+                    ]
+                },
+                {
+                    "name": "EjercicioQiGongIntent",
+                    "slots": [],
+                    "samples": [
+                        "dame un ejercicio de qi gong",
+                        "ejercicio de chi kung",
+                        "qué ejercicio puedo hacer",
+                        "guíame en un ejercicio",
+                        "práctica de qi gong",
+                        "movimiento de energía",
+                        "ejercicio energético",
+                        "qi gong para ahora",
+                        "práctica para este momento"
+                    ]
+                },
+                {
+                    "name": "MeditacionIntent",
+                    "slots": [],
+                    "samples": [
+                        "guíame en una meditación",
+                        "quiero meditar",
+                        "meditación guiada",
+                        "dame una visualización",
+                        "meditación para ahora",
+                        "práctica de meditación",
+                        "visualización guiada",
+                        "relajación guiada",
+                        "ayúdame a meditar"
+                    ]
+                },
+                {
+                    "name": "ExplicaOrganoIntent",
+                    "slots": [
+                        {
+                            "name": "organo",
+                            "type": "ORGANO_TYPE"
+                        }
+                    ],
+                    "samples": [
+                        "cuéntame sobre el {organo}",
+                        "información sobre el {organo}",
+                        "qué es el meridiano del {organo}",
+                        "explica el {organo}",
+                        "háblame del {organo}",
+                        "detalles del {organo}",
+                        "todo sobre el {organo}",
+                        "qué función tiene el {organo}"
+                    ]
+                },
+                {
+                    "name": "ElementoIntent",
+                    "slots": [
+                        {
+                            "name": "elemento",
+                            "type": "ELEMENTO_TYPE"
+                        }
+                    ],
+                    "samples": [
+                        "cuéntame sobre el elemento {elemento}",
+                        "qué es el elemento {elemento}",
+                        "información del elemento {elemento}",
+                        "explica el {elemento}",
+                        "háblame del elemento {elemento}"
+                    ]
+                },
+                {
+                    "name": "FraseMotivacionalIntent",
+                    "slots": [],
+                    "samples": [
+                        "dame una frase motivacional",
+                        "inspirame",
+                        "una frase de sabiduría",
+                        "sabiduría china",
+                        "proverbio chino",
+                        "frase del día",
+                        "motivación",
+                        "inspiración"
+                    ]
+                },
+                {
+                    "name": "ResumenDiaIntent",
+                    "slots": [],
+                    "samples": [
+                        "dame un resumen del día",
+                        "cómo es el ciclo del día",
+                        "explica el reloj completo",
+                        "cuéntame sobre los doce períodos",
+                        "resumen de los meridianos",
+                        "explica todo el reloj",
+                        "ciclo completo del día"
+                    ]
+                },
+                {
+                    "name": "HoraOrganoIntent",
+                    "slots": [
+                        {
+                            "name": "organo",
+                            "type": "ORGANO_TYPE"
+                        }
+                    ],
+                    "samples": [
+                        "a qué hora está activo el {organo}",
+                        "cuándo es el mejor momento para el {organo}",
+                        "horario del {organo}",
+                        "cuándo trabaja el {organo}",
+                        "hora del {organo}"
+                    ]
+                },
+                {
+                    "name": "DesperteAhoraIntent",
+                    "slots": [],
+                    "samples": [
+                        "me he despertado ahora",
+                        "acabo de despertar",
+                        "me acabo de despertar",
+                        "me desperté ahora",
+                        "no puedo dormir",
+                        "me he levantado ahora",
+                        "qué hago si me he despertado",
+                        "qué debo hacer si me he despertado",
+                        "qué significa que me haya despertado ahora",
+                        "por qué me he despertado",
+                        "por qué estoy despierto",
+                        "me desvelé",
+                        "tengo insomnio",
+                        "no tengo sueño",
+                        "me cuesta dormir",
+                        "qué pasa si me despierto ahora",
+                        "desperté y no puedo dormir"
+                    ]
+                }
+            ],
+            "types": [
+                {
+                    "name": "ORGANO_TYPE",
+                    "values": [
+                        {
+                            "name": {
+                                "value": "pulmón",
+                                "synonyms": [
+                                    "pulmones",
+                                    "respiración",
+                                    "pulmonar"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "intestino grueso",
+                                "synonyms": [
+                                    "colon",
+                                    "intestino largo"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "estómago",
+                                "synonyms": [
+                                    "estomago",
+                                    "gástrico"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "bazo",
+                                "synonyms": [
+                                    "páncreas",
+                                    "bazo y páncreas",
+                                    "esplénico"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "corazón",
+                                "synonyms": [
+                                    "cardíaco",
+                                    "corazon"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "intestino delgado",
+                                "synonyms": [
+                                    "intestino fino",
+                                    "intestino pequeño"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "vejiga",
+                                "synonyms": [
+                                    "vesical",
+                                    "vejiga urinaria"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "riñón",
+                                "synonyms": [
+                                    "riñones",
+                                    "renal",
+                                    "rinon"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "pericardio",
+                                "synonyms": [
+                                    "maestro del corazón",
+                                    "circulación"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "triple calentador",
+                                "synonyms": [
+                                    "san jiao",
+                                    "triple recalentador",
+                                    "tres fogones"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "vesícula biliar",
+                                "synonyms": [
+                                    "vesícula",
+                                    "vesicula biliar",
+                                    "bilis"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "hígado",
+                                "synonyms": [
+                                    "hepático",
+                                    "higado"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "ELEMENTO_TYPE",
+                    "values": [
+                        {
+                            "name": {
+                                "value": "madera",
+                                "synonyms": [
+                                    "elemento madera",
+                                    "mu"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "fuego",
+                                "synonyms": [
+                                    "elemento fuego",
+                                    "huo"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "tierra",
+                                "synonyms": [
+                                    "elemento tierra",
+                                    "tu"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "metal",
+                                "synonyms": [
+                                    "elemento metal",
+                                    "jin"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "agua",
+                                "synonyms": [
+                                    "elemento agua",
+                                    "shui"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

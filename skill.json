@@ -1,0 +1,50 @@
+{
+    "manifest": {
+        "apis": {
+            "custom": {
+                "endpoint": {
+                    "uri": "arn:aws:lambda:us-east-1:XXXXXXXXXXXX:function:RelojOrganicoChino"
+                }
+            }
+        },
+        "manifestVersion": "1.0",
+        "publishingInformation": {
+            "locales": {
+                "es-ES": {
+                    "name": "Reloj de Qi",
+                    "summary": "Descubre qué órgano está activo según la Medicina Tradicional China. Consejos, Qi Gong y meditaciones personalizadas.",
+                    "description": "🕐 RELOJ DE QI - Tu guía del Reloj Orgánico Chino\n\n¿Sabías que según la Medicina Tradicional China, cada órgano de tu cuerpo tiene un momento de máxima energía? Durante miles de años, los maestros chinos han observado cómo el Qi (energía vital) fluye por los 12 meridianos principales en ciclos de 2 horas.\n\n✨ ¿QUÉ PUEDES HACER?\n\n• Consultar qué órgano está activo en este momento\n• Recibir consejos personalizados según la hora\n• Conocer qué alimentos te benefician ahora\n• Practicar ejercicios de Qi Gong guiados\n• Realizar meditaciones con visualizaciones\n• Entender por qué despiertas a ciertas horas\n• Aprender sobre los 5 elementos y sus órganos\n\n🌿 LOS 12 PERÍODOS DEL DÍA\n\nCada período de 2 horas está gobernado por un órgano diferente: Pulmón, Intestino Grueso, Estómago, Bazo, Corazón, Intestino Delgado, Vejiga, Riñón, Pericardio, Triple Calentador, Vesícula Biliar e Hígado.\n\n💡 ¿TE DESPIERTAS SIEMPRE A LA MISMA HORA?\n\nPregúntame por qué despiertas a las 3am (o cualquier hora) y te explicaré qué órgano puede necesitar atención según la sabiduría ancestral china.\n\n🧘 EJERCICIOS Y MEDITACIÓN\n\nRecibe instrucciones guiadas de Qi Gong y meditaciones específicas para armonizar el meridiano activo en cada momento.\n\nPerfecto para quienes buscan vivir en armonía con los ritmos naturales del cuerpo.\n\nDi \"Alexa, abre Reloj de Qi\" y comienza tu viaje hacia el equilibrio. 🙏",
+                    "examplePhrases": [
+                        "Alexa, abre Reloj de Qi",
+                        "qué órgano está activo ahora",
+                        "dame un consejo para este momento"
+                    ],
+                    "keywords": [
+                        "medicina china",
+                        "qi gong",
+                        "bienestar",
+                        "meditación",
+                        "meridianos",
+                        "reloj orgánico",
+                        "yin yang",
+                        "salud",
+                        "energía",
+                        "acupuntura"
+                    ]
+                }
+            },
+            "isAvailableWorldwide": true,
+            "testingInstructions": "Di 'Alexa, abre Reloj de Qi'",
+            "category": "HEALTH_AND_FITNESS",
+            "distributionMode": "PUBLIC",
+            "developerName": "Jose Alvarez Dev"
+        },
+        "privacyAndCompliance": {
+            "allowsPurchases": false,
+            "isExportCompliant": true,
+            "containsAds": false,
+            "isChildDirected": false,
+            "usesPersonalInfo": false
+        }
+    }
+}

@@ -1,0 +1,33 @@
+# Dependencias
+node_modules/
+package-lock.json
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Build
+dist/
+*.zip
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# ASK CLI
+.ask/
+
+# Archivos temporales
+*.tmp
+*.temp
